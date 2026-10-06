@@ -1,0 +1,40 @@
+[
+  {
+    "type": "cover",
+    "bubble": ["Kontaktformular · heute", "0 neue Anfragen"],
+    "headline_html": "Deine Website hat Besucher. <em>Aber keine Anfragen.</em>",
+    "sub": "5 Gründe, warum das so ist und was du dagegen tun kannst.",
+    "footer": "@efetack · Webdesign für lokale Unternehmen"
+  },
+  {
+    "type": "content",
+    "headline": "Sie lädt zu langsam.",
+    "text": "Jede Sekunde Wartezeit kostet Besucher. Viele sind weg, bevor sie dein Angebot überhaupt sehen.",
+    "fix": "Bilder verkleinern, unnötige Plugins raus, schnelles Hosting."
+  },
+  {
+    "type": "content",
+    "headline": "Am Handy ist sie kaum bedienbar.",
+    "text": "Die meisten Kunden suchen unterwegs. Winzige Schrift und verrutschte Buttons schicken sie zur Konkurrenz.",
+    "fix": "Die Seite zuerst fürs Smartphone bauen, Anruf-Button ganz oben."
+  },
+  {
+    "type": "content",
+    "headline": "Niemand versteht sofort, was du machst.",
+    "text": "Besucher entscheiden in Sekunden, ob sie bleiben. Allgemeine Sprüche helfen ihnen dabei nicht.",
+    "fix": "Eine klare Überschrift: Was du anbietest, für wen und wo."
+  },
+  {
+    "type": "content",
+    "headline": "Es gibt keinen nächsten Schritt.",
+    "text": "Wer interessiert ist, will wissen, wie es weitergeht. Ein verstecktes Kontaktformular reicht nicht.",
+    "fix": "Ein sichtbarer Button pro Seite: Anrufen, WhatsApp oder Termin buchen."
+  },
+  {
+    "type": "content",
+    "headline": "Google findet dich nicht.",
+    "text": "Lokale Kunden suchen über Google Maps. Ohne gepflegtes Profil tauchst du dort kaum auf.",
+    "fix": "Google-Unternehmensprofil vollständig pflegen und mit der Website verknüpfen.",
+    "footer": "Fragen zu deiner Website? Schreib mir eine Nachricht."
+  }
+]
